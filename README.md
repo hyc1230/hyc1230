@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://github-readme-stats.vercel.app/api?username=hyc1230&show_icons=true)
+
 #### Let's get started
 
 I'm Yangcheng He, hyc1230 for short. I'm a junior high school student (this sentence is on our text book!) in Shenzhen, Guangdong, China.
@@ -28,7 +30,7 @@ I'm learning to develop amazing programs, but before I become an expert, I still
 
 #### How to reach me
 
-I'm at Shenzhen Middle School (junior!).
+I'm at Shenzhen Middle School (Junior Department!).
 
 These are some of my social accounts: [Luogu/洛谷](https://www.luogu.com.cn/user/532854) AlgoPleasant | QQ 191039275 | [Bilibili](https://space.bilibili.com/1676242754) 小小兆该怎么拖更呢
 
