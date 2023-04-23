@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=hyc1230&show_icons=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyc1230)
+
 #### Let's get started
 
 I'm Yangcheng He, hyc1230 for short. I'm a junior high school student (this sentence is on our text book!) in Shenzhen, Guangdong, China.
