@@ -34,6 +34,6 @@ I'm learning to develop amazing programs, but before I become an expert, I still
 
 I'm at Shenzhen Middle School (Junior Department!).
 
-These are some of my social accounts: [Luogu/洛谷](https://www.luogu.com.cn/user/532854) AlgoPleasant | QQ 191039275 | [Bilibili](https://space.bilibili.com/1676242754) 小小兆该怎么拖更呢
+These are some of my social accounts: [Luogu/洛谷](https://www.luogu.com.cn/user/532854) AlgoPleasant | QQ 191039275
 
-Also, I have a website: <https://ghpages.heyc.eu.org>
+Welcome to visit my blog: <https://blog.heyc.eu.org>
