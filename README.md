@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 #### Let's get started
 
-I'm Yangcheng He, hyc1230 for short. I'm a junior high school student (this sentence is on our text book!) in Shenzhen, Guangdong, China.
+I'm Yangcheng He, hyc1230 for short. I'm a junior high school student in Shenzhen.
 
-I'm learning to develop amazing programs, but before I become an expert, I still need to learn more (obviously).
+Learning to develop amazing programs, but before I become an expert, I still need to learn more (obviously).
 
 #### Currently working on
 
@@ -32,8 +32,8 @@ I'm learning to develop amazing programs, but before I become an expert, I still
 
 #### How to reach me
 
-I'm at Shenzhen Middle School (Junior Department!).
+I'm at Shenzhen Middle School (Junior Department).
 
-These are some of my social accounts: [Luogu/洛谷](https://www.luogu.com.cn/user/532854) AlgoPleasant | QQ 191039275
+These are some of my social accounts: Luogu hycJuRuo(765440) | QQ 191039275
 
 Welcome to visit my blog: <https://blog.heyc.eu.org>
