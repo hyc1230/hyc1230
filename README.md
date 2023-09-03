@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 #### Let's get started
 
-I'm Yangcheng He, hyc1230 for short. I'm a junior high school student in Shenzhen.
+I'm Yangcheng He, hyc1230 for short, a junior high school student in Shenzhen.
 
-Learning to develop amazing programs, but before I become an expert, I still need to learn more (obviously).
+Learning to develop amazing programs, but before I become an expert, I still need to learn more. :)
 
 #### Currently working on
 
