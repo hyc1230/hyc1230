@@ -17,23 +17,28 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=hyc1230&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyc1230)
-
-#### Let's get started
+### Let's get started
 
 I'm Yangcheng He, hyc1230 for short, a junior high school student in Shenzhen.
 
 Learning to develop amazing programs, but before I become an expert, I still need to learn more. :)
 
-#### Currently working on
+### Currently working on
 
 - Learning algorihms
 - Developing my website with something fun
+- Developing the brand new powerful userscript with [OIso-dev](/oiso-developer-team)
 
-#### How to reach me
+### Languages
 
-I'm at Shenzhen Middle School (Junior Department).
+Frequently used: JS, CSS, Py
 
-These are some of my social accounts: Luogu hycJuRuo(765440) | QQ 191039275
+Others: HTML, C++, PHP, EJS
 
-Welcome to visit my blog: <https://blog.heyc.eu.org>
+### How to reach me
+
+Shenzhen Middle School (Junior Department).
+
+Luogu hycJuRuo(765440) | QQ 191039275
+
+Blog: <https://blog.heyc.eu.org>
