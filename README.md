@@ -27,7 +27,7 @@ Learning to develop amazing programs, but before I become an expert, I still nee
 
 - Learning algorihms
 - Developing my website with something fun
-- Developing the brand new powerful userscript with [OIso-dev](/oiso-developer-team)
+- Developing the brand new powerful userscript with @oiso-developer-team
 
 ### Languages
 
