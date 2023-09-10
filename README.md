@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **hyc1230/hyc1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,4 +41,6 @@ Shenzhen Middle School (Junior Department).
 
 Luogu hycJuRuo(765440) | QQ 191039275
 
-Blog: <https://blog.heyc.eu.org>
+Homepage: <https://hycqwq.top>
+
+Blog: <https://blog.hycqwq.top>
