@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Let's get started
 
-I'm Yangcheng He, hyc1230 for short, a junior high school student in Shenzhen.
+I'm Yangcheng He, hyc for short, a junior high school student in Shenzhen.
 
 Learning to develop amazing programs, but before I become an expert, I still need to learn more. :)
 
@@ -39,7 +39,7 @@ Others: HTML, C++, PHP, EJS
 
 Shenzhen Middle School (Junior Department).
 
-Luogu hycJuRuo(765440) | QQ 191039275
+Luogu hycqwq(#532854) | QQ 191039275
 
 Homepage: <https://hycqwq.top>
 
