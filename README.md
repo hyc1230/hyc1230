@@ -26,19 +26,18 @@ Learning to develop amazing programs, but before I become an expert, I still nee
 ### Currently working on
 
 - Learning algorihms
-- Developing with @oiso-developer-team
+- ~~Developing with @oiso-developer-team~~
 
 ### Languages
 
-Frequently used: JS, CSS, Py
+Frequently used: JS, CSS, Py, C++
 
-Others: HTML, C++, PHP, EJS
+Others: HTML, PHP, EJS
 
 ### How to reach me
 
-Shenzhen Middle School (Junior Department).
-
-Luogu hycqwq(#532854) | QQ 191039275
+- ~~Shenzhen Middle School (Junior Department)~~
+- Luogu hycqwq(#532854) | QQ 191039275
 
 Homepage: <https://hycqwq.top>
 
