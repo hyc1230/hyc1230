@@ -25,6 +25,7 @@ Learning to develop amazing programs, but before I become an expert, I still nee
 
 ### Currently working on
 
+- Preparing for the senior high school entrance exam
 - Learning algorihms
 - ~~Developing with @oiso-developer-team~~
 
